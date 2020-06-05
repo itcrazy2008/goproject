@@ -13,3 +13,5 @@ Hellworld.exe
 * Linux也一样，生成的是二进制可执行文件，直接可以运行
 * 从以上过程来看，go语言是一种编译型语言，即没有中间产物，
 也不是在运行期才对源文件进行解释
+* go语言的开发工具 liteidex37.1-2.windows-qt5.9.5.zip
+https://sourceforge.net/projects/liteide/
