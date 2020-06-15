@@ -1,4 +1,5 @@
-#go语言环境搭建
+# go语言环境搭建
+
 * 下载安装包 https://golang.google.cn/dl/
 如：go1.14.4.windows-amd64.msi
 * 安装后设置环境变量 bin目录加入PATH
